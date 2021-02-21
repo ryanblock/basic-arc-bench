@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@architect/architect": "^8.4.8",
+    "run-series": "^1.1.9"
+  }
+}

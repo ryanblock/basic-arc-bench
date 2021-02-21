@@ -1,0 +1,1 @@
+# Architect service restarting benchmark
